@@ -1,8 +1,8 @@
-# Noozli Server Documentation
+# News Server Documentation
 
 *Last Updated: 2014-12-17 by Alejandro Cantarero*.
 
-This document describes how to configure and start the noozli server processes as well as how to access them.
+This document describes how to configure and start the news server processes as well as how to access them.
 
 ## Requirements
 
