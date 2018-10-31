@@ -1,4 +1,4 @@
-Flask==0.10.1
+Flask==0.12.3
 Flask-RESTful==0.2.12
 Jinja2==2.7.3
 Pillow~>3.3.2
