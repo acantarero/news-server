@@ -1,5 +1,3 @@
-[![Test Coverage](https://api.codeclimate.com/v1/badges/78bc67789eadfc32a973/test_coverage)](https://codeclimate.com/repos/5dfbbaadd285880163000030/test_coverage)
-
 # News Server Documentation
 
 *Last Updated: 2014-12-17 by Alejandro Cantarero*.
